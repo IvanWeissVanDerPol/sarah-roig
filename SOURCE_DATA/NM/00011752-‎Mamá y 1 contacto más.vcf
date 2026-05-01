@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Mamá;;;
+FN:Mamá
+TEL;type=CELL;type=VOICE;waid=595994357703:+595 994 357703
+END:VCARD_$!<VCard-Separator>!$_BEGIN:VCARD
+VERSION:3.0
+N:;Leticia Roig;;;
+FN:Leticia Roig
+X-WA-BIZ-NAME:Superspuma
+X-WA-BIZ-DESCRIPTION:Fábrica de colchones
+ORG:Leticia Roig;
+TEL;type=CELL;type=VOICE;waid=595985629024:+595 985 629024
+END:VCARD

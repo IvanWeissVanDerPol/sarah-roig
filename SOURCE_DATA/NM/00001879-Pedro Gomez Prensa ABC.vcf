@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:ABC;Pedro Gomez;Prensa;;
+FN:Pedro Gomez Prensa ABC
+item1.TEL;waid=595971200579:+595 971 200579
+item1.X-ABLabel:Trabajo
+END:VCARD
