@@ -224,7 +224,76 @@ Métrica: 28.7K seguidores, ~193 following. Unido en enero 2022.
 
 ---
 
-## 7. Fuentes
+## 7. Hallazgos de Segunda Ronda de Investigación
+
+> Nuevos hallazgos de la segunda ronda de scraping (mayo 2026). Cambian significativamente el análisis de riesgo para Sarah.
+
+### 7.1 La Ley 1600 como Arma — NM YA FUE CENSURADO
+
+Esto es **crítico**: Antonella Arámbulo usó la Ley 1600 (violencia doméstica) contra NM y contra su abogada **Noelia Quintana Shaffer** como represalia por la denuncia de hurto.
+
+**El resultado:** A NM se le restringió la posibilidad de expresarse públicamente sobre su propio caso. Su abogada fue impedida de referirse a la causa en redes sociales.
+
+**La jueza Gloria Machuca** (Juzgado de Paz de Santísima Trinidad) tuvo en sus manos el levantamiento de esa mordaza.
+
+**¿Qué significa para Sarah?** NM ya sabe cómo funciona la Ley 1600 desde el lado de la víctima. Él ya fue censurado por esta ley. Esto explica por qué en los chats con Sarah él es tan paranoico con que ella "hable con otros" sobre la relación — él ya vivió las consecuencias de que una ex use el sistema judicial para silenciarlo.
+
+**PARADOJA:** NM fue víctima de abuso del sistema (Antonella usó Ley 1600 contra él) y ahora Sarah es víctima de NM. Esto no hace a NM menos culpable — pero explica su hipervigilancia con Sarah hablando con Manuel, Garzón, etc.
+
+### 7.2 Observación Internacional — El Caso Está en la Corte Suprema
+
+Tres observadores internacionales denunciaron el caso Arámbulo:
+
+- **Omar Bula** (ex director de Naciones Unidas): calificó el caso como "perversión judicial"
+- **Guadalupe Correa Cabrera** (Universidad George Mason, consultora Banco Mundial, investigadora del gobierno de EE.UU.): publicó en La Opinión (España) y habló en el Wilson Center (Washington D.C.)
+- **Rubén Luengas** (periodista, 2 premios Emmy)
+
+**El caso llegó a la Corte Suprema de Justicia** y está en manos del ministro Luis María Benítez Riera.
+
+**¿Qué significa para Sarah?** El sistema judicial paraguayo ya está bajo escrutinio internacional por este caso. Cualquier movimiento de NM con otra ex pareja será observado con lupa.
+
+### 7.3 Fermín Bogado — El Defensor Público Imputado
+
+Fermín Bogado, defensor público de Arámbulo, fue:
+1. Imputado por **falso testimonio** (causa separada)
+2. Separado de sus cátedras en la UNA
+3. Objeto de denuncias de estudiantes que exigían su destitución
+4. Descrito como alguien que "agredió a un camarógrafo de Última Hora"
+
+**¿Qué significa para Sarah?** NM tiene experiencia litigando contra un sistema que considera corrupto. Él ya "ganó" la batalla mediática (Bogado fue separado). Pero también: el sistema eventualmente actuó contra Bogado. No es tan impune como NM cree.
+
+### 7.4 La Reunión con el Camarista — Evidencia de Tráfico de Influencias
+
+Arámbulo y la esposa de Bogado **visitaron al camarista Dionisio Frutos Serrati** dos días antes de que confirmara la libertad ambulatoria de la imputada.
+
+Además, la ex pareja de Arámbulo (un abogado vinculado a una familia acaudalada de ciudadanía suiza) habría gestionado influencias informales e intentado acceder irregularmente a la carpeta fiscal.
+
+**¿Qué significa para Sarah?** Si Sarah denuncia, NM tiene experiencia navegando estas aguas turbias del sistema judicial paraguayo. Pero también: hay un registro público de que NM fue la víctima en ese caso. Él no es el corrupto — señaló a los corruptos.
+
+### 7.5 La Mordaza Judicial que Afectó a NM
+
+La jueza Gloria Machuca impuso restricciones a NM y su abogada bajo la Ley 1600:
+
+> "La abogada fue impedida de referirse a la causa por hurto incluso en redes sociales"
+
+**Esto es especialmente relevante para el caso de Sarah porque:** NM amenazó a Sarah con llamar a la policía cuando ella no cumplió su deadline. Ahora sabemos que él ya experimentó cómo una Ley 1600 mal usada puede silenciar a una persona. Él sabe que es un arma de doble filo.
+
+### 7.6 Actualización del Patrón NM
+
+| Fase | Con Antonella | Con Sarah |
+|---|---|---|
+| Relación | Pareja | Pareja |
+| Ruptura | Conflictiva | Conflictiva |
+| NM denuncia | ✅ Hurto agravado (mayo 2025) | Amenazó con policía/litigio |
+| Ex contraataca | ✅ Ley 1600 (violencia doméstica) + desacato | No ocurrió (pero NM lo anticipó) |
+| NM es censurado | ✅ Por la Ley 1600 — no podía hablar del caso | No aplica |
+| NM gana a medias | ✅ Bogado separado, caso en Corte Suprema | Potencial |
+| NM pierde a medias | ❌ Arámbulo sigue prófuga en Europa, libertad ambulatoria | Potencial |
+| Escrutinio internacional | ✅ ONU, Banco Mundial, Wilson Center, premios Emmy | Potencial si Sarah actúa |
+
+---
+
+## 8. Fuentes
 
 - [Última Hora: Perfil de Nicolás Morás (15 abril 2026)](https://www.ultimahora.com/nicolas-moras-de-ser-critico-al-gobierno-argentino-al-fenomeno-del-canal-el-milagro-paraguayo)
 - [Última Hora: UNA separa a Fermín Bogado, caso Arámbulo (11 marzo 2026)](https://www.ultimahora.com/caso-arambulo-una-separa-a-fermin-bogado-y-experta-senala-a-jueza-esquivel-por-atropello-a-nicolas-moras)

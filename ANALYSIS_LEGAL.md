@@ -145,27 +145,29 @@ NM amenazó con eliminar videos. No hay evidencia de que haya difundido material
 
 ---
 
-## 5. Análisis de Riesgos
+## 5. Análisis de Riesgos (Actualizado con Hallazgos del Caso Arámbulo)
 
 ### 5.1 Riesgos de Iniciar Acción Legal
 
 | Riesgo | Severidad | Probabilidad | Mitigación |
 |---|---|---|---|
-| **Contraataque mediático** | Alta | Alta — NM tiene plataforma ("El Club"), es figura pública | Preparar declaración pública, controlar narrativa, considerar anonimato en denuncia inicial |
-| **Exposición pública de la relación** | Alta | Media-Alta — NM podría ventilar detalles íntimos | Solicitar reserva del expediente (Ley 5777 permite), evaluar si la exposición es manejable |
+| **Contraataque mediático** | Alta | Alta — NM tiene plataforma ("El Club", 750K suscriptores), ya manejó escrutinio en caso Arámbulo | Preparar declaración pública, controlar narrativa, considerar anonimato en denuncia inicial. NM ya está bajo lupa internacional — otra controversia lo daña mucho |
+| **Exposición pública de la relación** | Alta | Media-Alta — NM podría ventilar detalles íntimos | Solicitar reserva del expediente (Ley 5777 permite). NM ya fue censurado por Ley 1600 en el caso Arámbulo — sabe lo que se siente y puede intentar lo mismo |
 | **Retraumatización** | Alta | Alta — revivir el abuso en declaraciones, contrainterrogatorio, audiencias | Acompañamiento psicológico durante todo el proceso; declaración en cámara Gesell (si aplica) |
-| **Contra-denuncia penal de NM** | Media | Media — NM amenazó con llamar a la policía, podría denunciar acoso o calumnias | Asegurarse de que la denuncia esté bien fundada; no exagerar; no incluir hechos no verificables |
+| **Contra-denuncia penal de NM o Ley 1600** | Media-Alta | **Alta** — Antonella Arámbulo usó Ley 1600 contra NM como represalia. Él ya sabe que esa jugada existe y podría anticiparla presentando él primero una denuncia contra Sarah | Asegurarse de que la denuncia esté bien fundada; no exagerar; no incluir hechos no verificables. Documentar TODO. Si NM contra-denuncia, eso fortalece el patrón de "denunciante serial de ex parejas" |
+| **NM usa su experiencia litigando** | Media | **Alta** — ya litigó el caso Arámbulo por ~1 año. Tiene abogada (Quintana Shaffer). Sabe cómo funciona el sistema | No subestimar su preparación. Pero recordar: NM es la víctima legal en el caso Arámbulo. Otra ex denunciándolo por abuso es un patrón problemático para él |
 | **Costo económico** | Baja-Media | Alta — abogados, tiempo, posible peritaje psicológico | Evaluar patrocinio gratuito (Ministerio de la Mujer, centros de atención a víctimas) |
-| **Litigio civil por daños y perjuicios** | Baja | Baja — es improbable que NM inicie acción civil contra ella | Pero estar preparada: las relaciones de pareja no generan obligaciones civiles resarcibles salvo casos extremos |
+| **Escalamiento a Corte Suprema** | Baja | Baja — el caso Arámbulo ya está en la Corte. Sarah podría beneficiarse del precedente si su caso es sólido | El precedente Arámbulo ya puso al sistema bajo escrutinio. Una causa penal paralela sería observada de cerca |
 
 ### 5.2 Riesgos de NO Iniciar Acción
 
 | Riesgo | Severidad | Análisis |
 |---|---|---|
-| **NM repite el patrón con otra mujer** | Alta | El perfil narcisista indica que lo hará. La inacción de Sarah es permiso social implícito. |
-| **NM difunde material íntimo igualmente** | Baja-Media | Sin acción legal, no hay nada que lo disuada de hacerlo si es su naturaleza |
+| **NM repite el patrón con otra mujer** | Alta | El patrón ya se confirmó con Antonella → Sarah. Habrá una tercera. |
+| **NM difunde material íntimo** | Baja-Media | En el caso Arámbulo NO difundió material íntimo de ella públicamente (no hay evidencia). Pero las amenazas de borrar videos con Sarah son preocupantes |
 | **Sarah no cierra el ciclo** | Alta | Para muchas víctimas, la acción legal es parte del proceso de cierre. Sin ella, el "él ganó" interno persiste. |
-| **NM intensifica contacto** | Baja | El ghosting post-abril sugiere que perdió interés; pero narcisistas pueden reaparecer |
+| **NM intensifica contacto** | Baja-Media | El ghosting post-abril sugiere que perdió interés. Pero en el caso Arámbulo, NM mantuvo el caso activo por ~1 año. No es de los que olvidan |
+| **Se pierde la oportunidad de documentar el patrón** | Alta | Si Sarah no actúa, la próxima ex de NM no tendrá el beneficio de saber que hay un patrón documentado. Su silencio es permiso social implícito |
 
 ---
 
@@ -253,7 +255,72 @@ NM tiene una plataforma ("El Club", podcast). Esto es un arma de doble filo:
 
 ---
 
-## 10. Mapa de Decisión
+## 9A. INTEGRACIÓN CON EL CASO ARÁMBULO (Hallazgos de Investigación)
+
+### 9A.1 Ley 1600 como Arma de Doble Filo
+
+El caso Arámbulo revela que NM ya fue víctima de un uso abusivo de la Ley 1600:
+
+- Antonella Arámbulo denunció a NM por violencia doméstica bajo Ley 1600 como represalia
+- NM fue restringido de hablar públicamente sobre su propio caso
+- Su abogada Noelia Quintana Shaffer fue impedida de referirse a la causa en redes sociales
+- La denuncia fue eventualmente desestimada por el juez Rogeth Chaparro por "uso incorrecto de la ley"
+
+**Implicación para Sarah:** NM ya sabe cómo se siente ser víctima de una Ley 1600 mal usada. Esto explica su paranoia en los chats cuando Sarah hablaba con otros sobre la relación. Él ya vivió las consecuencias. Pero también: él sabe cómo navegar este sistema y cómo presentarse como víctima.
+
+### 9A.2 Escrutinio Internacional — Factor Disuasivo
+
+El caso Arámbulo escaló a:
+- **Corte Suprema de Justicia** (ministro Luis María Benítez Riera)
+- **Observación internacional**: Omar Bula (ONU), Guadalupe Correa Cabrera (Banco Mundial/gobierno EE.UU.), Rubén Luengas (premios Emmy)
+- **Medios internacionales**: La Opinión (España), RealPolitik (Argentina)
+
+**Ventaja para Sarah:** Cualquier nuevo caso de abuso contra NM será observado con lupa. El precedente Arámbulo ya puso al sistema judicial paraguayo bajo escrutinio. Otra denuncia de otra ex pareja sería muy difícil de ignorar.
+
+**Riesgo para Sarah:** NM tiene experiencia litigando. Su equipo legal (Quintana Shaffer) ya operó bajo escrutinio internacional y sabe manejar la presión mediática.
+
+### 9A.3 El Patrón de Denunciar a sus Ex — Confirmado
+
+| Aspecto | Con Antonella | Con Sarah |
+|---|---|---|
+| Inicio de relación | Desconocido | Sept 2025 |
+| Ruptura | Antes de mayo 2025 | Feb-Abr 2026 |
+| Denuncia de NM | ✅ Hurto agravado (mayo 2025) | Amenazó con hacerlo |
+| Contra-denuncia de la ex | ✅ Ley 1600 + desacato | NM lo anticipó en los chats |
+| NM usa su plataforma | ✅ Habló del caso en medios | Potencial |
+| Resultado | Parcial — ganó batalla mediática, perdió batalla judicial (ella sigue prófuga) | TBD |
+
+**Esto cambia el cálculo de riesgo:**
+- Si Sarah denuncia, NM no se va a asustar. Ya pasó por esto.
+- Pero NM ahora tiene dos ex parejas con denuncias. Eso es un patrón.
+- Un juez podría ver a NM como un denunciante serial de sus ex parejas.
+
+### 9A.4 Riesgo de Mordaza Judicial
+
+En el caso Arámbulo, la jueza Gloria Machuca impuso restricciones a NM y su abogada bajo Ley 1600, impidiéndoles hablar del caso.
+
+**Si Sarah denuncia a NM por violencia psicológica, existe el riesgo de que NM use la misma estrategia que Antonella: presentar una contra-denuncia bajo Ley 1600 para intentar silenciar a Sarah.**
+
+**Mitigación:** Toda la comunicación de Sarah con NM debe ser profesional, sin emociones, documentada. Si NM responde con amenazas o agresión, eso fortalece el caso de Sarah.
+
+---
+
+## 10. Consideración Estratégica: NM ya sabe que esto puede pasar
+
+NM ya vivió un caso casi idéntico. Él sabe que una ex pareja puede:
+1. Denunciarlo (Antonella: Ley 1600, desacato)
+2. Usar el sistema judicial como arma
+3. Escalar a medios internacionales
+
+Él ya está preparado. Su abogada (Noelia Quintana Shaffer) ya manejó una causa con observación internacional.
+
+**Pero esto también lo hace vulnerable:** Si Sarah denuncia, el patrón es innegable. No es "una ex loca" — son dos. Eso es un patrón. Y el sistema judicial, que ya está bajo escrutinio por el caso Arámbulo, no puede ignorar una segunda denuncia sin parecer cómplice.
+
+**Recomendación táctica:** Si Sarah va a actuar, que no sea sola. Que contacte primero a las personas y organizaciones que ya observan el caso Arámbulo (Correa Cabrera, Bula, La Opinión). Que documente todo. Y que actúe con un abogado que pueda conectar su caso con el precedente Arámbulo.
+
+---
+
+## 11. Mapa de Decisión Actualizado
 
 ```
                         Fase 1 (0-2 semanas) — Aseguramiento
@@ -291,7 +358,7 @@ NM tiene una plataforma ("El Club", podcast). Esto es un arma de doble filo:
 
 ---
 
-## 11. Conclusión Final
+## 12. Conclusión Final
 
 **El caso de Sarah contra NM tiene bases legales reconocibles en Paraguay.** La evidencia es excepcionalmente fuerte para un caso de violencia psicológica — 24.840 líneas de chat contemporáneo documentan cada fase del abuso. Pocas víctimas tienen este nivel de documentación.
 
@@ -301,14 +368,19 @@ NM tiene una plataforma ("El Club", podcast). Esto es un arma de doble filo:
 - Los perpetradores con plataforma mediática tienen ventajas sistémicas
 - El proceso puede ser retraumatizante
 
-**Recomendación final pragmática:**
+**Recomendación final pragmática (actualizada con hallazgos del caso Arámbulo):**
 
-1. ✅ **Fase 1 (ahora):** Preservar evidencia + comunicación de no contacto + evaluación psicológica
-2. ✅ **Fase 2 (1-2 semanas):** Solicitar medidas de protección (Ley 5777) — bajo riesgo, alto impacto
-3. ❓ **Fase 3 (decisión):** Evaluar si denuncia penal o acción civil agrega valor sobre las medidas de protección
-4. ❌ **No recomendado:** Exposición pública sin asesoramiento legal previo; acción penal sin preparación psicológica
+1. ✅ **Fase 1 (ahora):** Preservar evidencia + comunicación de no contacto + evaluación psicológica. **No le cuentes a nadie más sobre la relación por ahora** — NM ya fue censurado por Ley 1600 en el caso Arámbulo y sabe cómo funciona.
 
-**La mejor justicia para Sarah puede no ser la condena de NM, sino recuperar su vida, su cuerpo y su paz. El sistema legal es una herramienta, no el objetivo.**
+2. ✅ **Fase 2 (1-2 semanas):** Evaluar medidas de protección (Ley 5777) con un ABOGADO QUE CONOZCA EL CASO ARÁMBULO. El precedente es fundamental.
+
+3. ❓ **Fase 3 (decisión):** Si Sarah decide denunciar, hacerlo sabiendo que NM ya litigó una causa similar. Él no se va a intimidar. Pero: dos ex parejas denunciando abuso es un patrón muy difícil de explicar. **La mejor estrategia no es una guerra judicial frontal, sino documentar el patrón y dejarlo en manos de observadores internacionales si es necesario.**
+
+4. ⚠️ **NUEVO RIESGO:** NM podría anticipar una denuncia de Sarah y presentar él primero una contra-denuncia. Cualquier comunicación futura debe ser fría, profesional y documentada. No darle munición.
+
+5. ✅ **Factor favorable:** El caso Arámbulo ya está en la Corte Suprema con observación internacional (ONU, Banco Mundial, Wilson Center). El sistema judicial paraguayo ya sabe que están siendo observados. Una segunda causa con NM como denunciado (no como víctima) sería muy significativa.
+
+**La mejor justicia para Sarah puede no ser la condena de NM, sino recuperar su vida, su cuerpo y su paz. El sistema legal es una herramienta, no el objetivo. Pero ahora sabemos que NM ya tiene un expediente — y su patrón ya no es un secreto.**
 
 ---
 
