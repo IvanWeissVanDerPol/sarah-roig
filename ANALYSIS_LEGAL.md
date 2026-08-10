@@ -1,7 +1,7 @@
 # Análisis Legal — Sarah Roig vs. NM
 
 > **Contexto:** Relación de pareja sept 2025 – feb 2026, contacto residual hasta abr 2026
-> **Base probatoria:** 24.840 líneas de chat WhatsApp, audios de voz, registros de peso, documentación de cambios corporales
+> **Base probatoria:** 24.840 líneas de chat Messaging, audios de voz, registros de peso, documentación de cambios corporales
 > **Jurisdicción:** Paraguay (Código Penal, Código Civil, Ley 5777/2016 de Protección Integral a las Mujeres)
 > **Fecha del análisis:** mayo 2026
 
@@ -127,7 +127,7 @@ NM amenazó con eliminar videos. No hay evidencia de que haya difundido material
 
 | Tipo de Evidencia | Fuerza | Fundamento |
 |---|---|---|
-| **Chat de WhatsApp (24.840 líneas)** | **MUY ALTA** | Contemporáneo, no editable sin detección, con metadatos de fecha/hora. Documenta patrón de 226 días. Texto original (no resumen interpretativo). |
+| **Chat de Messaging (24.840 líneas)** | **MUY ALTA** | Contemporáneo, no editable sin detección, con metadatos de fecha/hora. Documenta patrón de 226 días. Texto original (no resumen interpretativo). |
 | **Audios de voz** | **ALTA** | Voz no miente — el tono, las pausas, las emociones son evidencia difícil de refutar |
 | **Registros de peso (87 → 99 kg)** | **MODERADA** | Solo si hay documentación fechada (fotos, registros médicos). Sin eso, es testimonial. |
 | **Testimonio de Sarah** | **MODERADA** | Necesaria pero atacable por descrédito ("es su palabra contra la mía"). Vital si NM decide abogar que fue consentido. |
@@ -136,7 +136,7 @@ NM amenazó con eliminar videos. No hay evidencia de que haya difundido material
 
 ### Recomendaciones de preservación probatoria
 
-1. **Exportar el chat completo** de WhatsApp a formato legible por tribunal (PDF con fecha/hora visible)
+1. **Exportar el chat completo** de Messaging a formato legible por tribunal (PDF con fecha/hora visible)
 2. **Respaldar los audios** en múltiples ubicaciones (nube, disco externo, copia física)
 3. **Documentar fotográficamente** los cambios de peso si existen registros fotográficos fechados
 4. **No modificar ni eliminar nada** — cada mensaje es evidencia; incluso los que la muestran mal a ella
@@ -184,7 +184,7 @@ Enviar un mensaje **escrito, formal, sin emoción** declarando que no desea más
 
 ### 6.2 Preservación de Evidencia (Esta Semana)
 
-Ver sección 4 arriba. Crítico: no perder acceso al chat de WhatsApp.
+Ver sección 4 arriba. Crítico: no perder acceso al chat de Messaging.
 
 ### 6.3 Medidas de Protección (Ley 5777) sin Juicio de Fondo
 

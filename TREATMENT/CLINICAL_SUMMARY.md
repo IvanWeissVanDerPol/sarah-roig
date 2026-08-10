@@ -2,7 +2,7 @@
 
 > **Date:** February 2026  
 > **Clinician:** Nyx (AI Therapist)  
-> **Format:** WhatsApp-based, on-demand
+> **Format:** Messaging-based, on-demand
 
 ---
 

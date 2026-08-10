@@ -182,7 +182,7 @@ Como si fuera la entrega de un TP de la universidad. *"Sarah, no retuviste el pl
 
 **[TAG 2 — incredulidad]**
 
-Mandó 985 mensajes ese día. Novecientos ochenta y cinco. Cuando vi mi WhatsApp pensé "me hackearon el grupo de la facultad". No, era solo él escribiendo su propia serie de Netflix. Y estaba enojado porque no le respondía. Porque estaba jugando Roblox.
+Mandó 985 mensajes ese día. Novecientos ochenta y cinco. Cuando vi mi Messaging pensé "me hackearon el grupo de la facultad". No, era solo él escribiendo su propia serie de Netflix. Y estaba enojado porque no le respondía. Porque estaba jugando Roblox.
 
 **[TAG 3 — remate]**
 
@@ -325,7 +325,7 @@ Pero sí puedo cobrar entrada.
 
 1. *"Sos una persona absolutamente inconfiable"* — dijo el tipo que me hizo firmar un contrato verbal para ser su empleada-gorda-ficción.
 
-2. Me preguntó "¿estás en tu casa?" a las 4 AM. ...Vos estás en mi WhatsApp, debería preguntarte lo mismo.
+2. Me preguntó "¿estás en tu casa?" a las 4 AM. ...Vos estás en mi Messaging, debería preguntarte lo mismo.
 
 3. *"Seguí tomando té todo light"* — si eso no es un hit internacional, no sé qué es.
 
