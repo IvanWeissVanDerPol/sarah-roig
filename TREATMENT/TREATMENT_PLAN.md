@@ -2,7 +2,7 @@
 
 > **Created:** February 2026  
 > **Approach:** Integrative (Attachment-focused, Trauma-informed, Feminist)  
-> **Format:** WhatsApp-based therapy via Nyx
+> **Format:** Messaging-based therapy via Nyx
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-## Session Format (WhatsApp-Based)
+## Session Format (Messaging-Based)
 
 ### Structure
 1. **Check-in** — How are you? What's on your mind?

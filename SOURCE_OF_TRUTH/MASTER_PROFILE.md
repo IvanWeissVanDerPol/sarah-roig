@@ -1,7 +1,7 @@
 # Sarah Roig — Psychological Profile
 
 > **Created:** February 2026  
-> **Source:** WhatsApp chat analysis (115,000+ lines across relationships)  
+> **Source:** Messaging chat analysis (115,000+ lines across relationships)  
 > **Status:** Living Document
 
 ---

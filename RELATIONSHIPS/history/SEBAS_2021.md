@@ -114,4 +114,4 @@ Sarah may:
 
 ---
 
-*Source: WhatsApp export analysis, February 2026*
+*Source: Messaging export analysis, February 2026*

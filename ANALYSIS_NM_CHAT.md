@@ -1,7 +1,7 @@
 # NM Chat Analysis — Deep Dive
 
 > Based on 19,067 messages (11,221 Sarah, 7,846 NM) spanning Sept 15, 2025 – Apr 29, 2026  
-> Source: WhatsApp Export
+> Source: Messaging Export
 
 ---
 

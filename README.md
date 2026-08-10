@@ -15,7 +15,7 @@ sarah-roig/
 │   └── MASTER_PROFILE.md          # Consolidated single source of truth
 │
 ├── SOURCE_DATA/
-│   ├── NM/                        # WhatsApp chat export — NM relationship
+│   ├── NM/                        # Messaging chat export — NM relationship
 │   └── ... (future: Sebas, Ivan exports)
 │
 ├── CORE_PSYCHOLOGY/
@@ -143,9 +143,9 @@ sarah-roig/
 
 ## Data Sources
 
-- WhatsApp export: Sarah & Sebas (2021) — 97,500 lines
-- WhatsApp export: Sarah & Ivan (2026) — 6,352+ lines
-- WhatsApp export: Sarah & NM (2025-2026) — raw chat archive
+- Messaging export: Sarah & Sebas (2021) — 97,500 lines
+- Messaging export: Sarah & Ivan (2026) — 6,352+ lines
+- Messaging export: Sarah & NM (2025-2026) — raw chat archive
 - Nyx Consultancy group sessions
 - Direct therapy conversations
 
